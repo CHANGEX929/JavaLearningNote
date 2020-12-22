@@ -14,7 +14,7 @@
 
 ### RDB数据同步实现原理
 
-![RDB数据同步方](redis/photo/RDB数据同步方案.png)
+![RDB数据同步方](photo/RDB数据同步方案.png)
 
 
 
